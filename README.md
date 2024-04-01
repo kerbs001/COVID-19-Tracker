@@ -85,4 +85,9 @@ plt.grid('on')
 plt.savefig('Philippines_Confirmed Cases.png')
 ```
 ### Sample Output
+Philippines 
 ![Philippines_Confirmed Cases](https://github.com/kerbs001/COVID-19-Tracker/assets/155122597/298c9db6-b002-4f71-9d4f-f8cd539d1283)
+South Korea
+![South Korea_Confirmed Cases](https://github.com/kerbs001/COVID-19-Tracker/assets/155122597/f52ed8b3-5e15-487d-b8e9-05e704db6075)
+Italy
+![Italy_Confirmed Cases](https://github.com/kerbs001/COVID-19-Tracker/assets/155122597/c5e620e9-5f07-4f02-a3ae-e6d17e8a3ec2)
